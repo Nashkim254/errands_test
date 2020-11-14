@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">errandsguy_app</string>
+    <string name="facebook_app_id">1017989951947216</string>
+    <string name="fb_login_protocol_scheme">fb1017989951947216</string>
+</resources>

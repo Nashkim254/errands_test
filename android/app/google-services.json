@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "641835637171",
+    "firebase_url": "https://errandsguyflutter.firebaseio.com",
+    "project_id": "errandsguyflutter",
+    "storage_bucket": "errandsguyflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641835637171:android:ae6c97f458f0fef6a153c6",
+        "android_client_info": {
+          "package_name": "com.errandsguy.errandsguy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641835637171-oe7rcipn745n91d4ust6pvil67l84k6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.errandsguy.errandsguy",
+            "certificate_hash": "bdc7daa10c2ba5ecf770ff43a2e68b724914f974"
+          }
+        },
+        {
+          "client_id": "641835637171-vap3qdpb8tshtisj1njmsa80kv15krqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJYGOXU64c5uaAC3Pu5V0Azqe71U7APk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641835637171-vap3qdpb8tshtisj1njmsa80kv15krqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641835637171-3ibaplb6c7n7ehrfvh7ch01n80f1mvv3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.errandsguy.errandsguy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
